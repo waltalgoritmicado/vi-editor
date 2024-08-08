@@ -2,7 +2,7 @@
 
 i: modo de iserção.
 
-**(estando no modo de visual mode)**
+**(estando no visual mode)**
 
 a: vai a frente onde está o cursor.
 
